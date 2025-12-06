@@ -34,7 +34,9 @@ button:hover{
 .text-h{
   text-align: center;
   margin: 10px;
-  font-weight: 600;
+  font-weight: 400;
+  font-size:xx-large;
+  background-color: aquamarine;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   
 }
